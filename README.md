@@ -6,7 +6,7 @@ This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minima
 ## License
 
 Feel free to adapt this theme to your site without linking back to me or including a disclaimer, although letting me know would be nice.
-The whole site is based on Jordi Pont-Tuset's site!
+The whole site is based on Dr. Jordi Pont-Tuset's and Prof. Dr. Laura Leal-Taixe's site!
 
 ## To run it locally
 ```
