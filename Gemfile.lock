@@ -17,6 +17,7 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
+    jekyll-email-protect (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-sitemap (1.1.1)
@@ -64,9 +65,10 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-email-protect
   jekyll-sitemap
   octopress (~> 3.0.0.rc.12)
   rouge
 
 BUNDLED WITH
-   1.15.4
+   1.16.2
