@@ -18,7 +18,7 @@ jekyll serve --watch --port 5000
 ## Some tips if you would like to fork and tweak it
 * The publist.layout controls the layout of the generated html file from bib. It's pretty straight forward to change although the code looks complicated.
   * You'll need to add pllinks field in JabRef
-  * It has an image on the left from images/papers/{bibtex_key}.png
+  * It has an image on the left from `images/papers/{bibtexkey}.png`
   * The publist.layout works with JabRef version < 4.0
 * It uses email obfuscator
   * It uses [email protect plugin](https://github.com/vwochnik/jekyll-email-protect) for site wide reference to site.owner
