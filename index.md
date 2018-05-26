@@ -10,7 +10,7 @@ image:
 I am a senior software engineer at <a href="https://research.google.com" target="_blank">Google Research</a> in 
 Zurich, Switzerland. My current research at Google focuses on video analysis and its applications in making YouTube free and enjoyable. 
 I also work closely with <a href="http://www.vision.ee.ethz.ch/en/" target="_blank">ETH CVL</a> led by 
-<a href="https://www.vision.ee.ethz.ch/en/members/get_member.cgi?id=1" target="_blank">Professor Luc Van Gool</a> on Webvision.
+<a href="https://www.vision.ee.ethz.ch/en/members/get_member.cgi?id=1" target="_blank">Professor Luc Van Gool</a> on co-organizing Webvision challenge and workshop.
 
 <br />
 I got my MPhil from The Chinese University of Hong Kong supervised by <a href="https://www.ee.cuhk.edu.hk/~xgwang/" target="_blank">Professor Xiaogang Wang</a>. 
