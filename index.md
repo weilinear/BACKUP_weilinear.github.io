@@ -9,7 +9,7 @@ image:
 
 I am a senior software engineer at <a href="https://research.google.com" target="_blank">Google Research</a> in 
 Zurich, Switzerland. My current research at Google focuses on video analysis and its applications in making YouTube free and enjoyable. 
-I also work closely with academia through university relationship. Currently I'm working with <a href="http://www.vision.ee.ethz.ch/en/" target="_blank">ETH CVL</a> led by 
+I also work with academia through university relationship. Currently I'm working closely with <a href="http://www.vision.ee.ethz.ch/en/" target="_blank">ETH CVL</a> led by 
 <a href="https://www.vision.ee.ethz.ch/en/members/get_member.cgi?id=1" target="_blank">Professor Luc Van Gool</a> on co-organizing Webvision challenge and workshop.
 
 <br />
