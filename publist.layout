@@ -10,6 +10,7 @@
 \begin{author}\format[AuthorFirstFirstCommas,HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\author}\end{author}<br />
 <strong>\format[HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\title}</strong><br />
 \begin{journal}<i>\format[HTMLChars,RemoveLatexCommands]{\journal}</i>, \end{journal}
+\begin{booktitle}<i>\format[HTMLChars,RemoveLatexCommands]{\booktitle}</i>, \end{booktitle}
 \begin{publisher}\format[HTMLChars,RemoveBrackets]{\publisher}, \end{publisher}
 \begin{school}<i>\format[HTMLChars,RemoveBrackets]{\school},</i> \end{school}
 \begin{year}\format[HTMLChars,RemoveBrackets]{\year}.\end{year}
