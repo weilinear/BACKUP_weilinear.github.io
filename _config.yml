@@ -16,7 +16,7 @@ owner:
   google_plus: 104696588995630333038
   github: weilinear
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-81242659-2
+google_analytics: G-ZXZ99MYCE4
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -28,6 +28,8 @@ links:
     url: /cv/
   - title: Publications
     url: /publications/
+  - title: Blog
+    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
