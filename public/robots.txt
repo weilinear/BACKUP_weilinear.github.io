@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weili.me/sitemap-index.xml
